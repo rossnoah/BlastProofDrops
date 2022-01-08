@@ -1,0 +1,7 @@
+name: BlastproofDrops
+version: '${project.version}'
+main: com.notablenoah.blastproofdrops.Main
+api-version: 1.17
+prefix: BPD
+authors: [ notablenoah ]
+description: Makes dropped items blast proof!
