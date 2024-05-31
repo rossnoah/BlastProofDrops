@@ -1,4 +1,4 @@
-package com.notablenoah.blastproofdrops;
+package dev.noah.blastproofdrops;
 
 import listener.ItemDamageListener;
 import org.bukkit.plugin.java.JavaPlugin;
